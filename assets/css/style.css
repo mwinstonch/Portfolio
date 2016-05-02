@@ -240,6 +240,9 @@ input {
 	font-size: 50px;
 }
 
+.title {
+    color: #3A3A9E;
+}
 /* GREY SECTION */
 #g {
 	padding-top: 50px;
@@ -298,7 +301,7 @@ input {
 
 /* CONTACT SEPARATOR */
 #sep {
-	background: url(../img/sep.jpg) no-repeat center top;
+	background: url(http://www.divorcelawyerhouston.pro/wp-content/uploads/2013/12/Houston.png) no-repeat center top;
 	padding-top: 100px;
 	background-attachment: relative;
 	background-position: center center;
