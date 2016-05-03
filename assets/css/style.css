@@ -119,10 +119,11 @@ a:focus {
 
 .profile-text {
     text-align: left;
-    width: 58%;
+    width: 53%;
 }
 
 .profile-pic {
+    margin-left: 10%;
      width: 30%;
  }
 
