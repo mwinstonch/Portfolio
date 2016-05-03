@@ -262,8 +262,9 @@ input {
 }
 
 .title {
-    color: #263692;
+    color: rgb(32, 4, 82);
 }
+
 /* GREY SECTION */
 #g {
 	padding-top: 50px;
