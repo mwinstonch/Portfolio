@@ -116,6 +116,7 @@ a:focus {
 
 .profile-text {
     text-align: left;
+    width: 61%;
 }
 
 .profile-pic {
@@ -124,7 +125,6 @@ a:focus {
 
 .profile-container {
     text-align: center;
-      margin: 0 auto;
 }
 
 /* FORM CONFIGURATION */
