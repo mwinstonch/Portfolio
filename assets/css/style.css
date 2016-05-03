@@ -109,6 +109,10 @@ a:focus {
   color:#696E74;
 }
 
+.bio-start {
+    border-bottom: 1px solid black;
+}
+
 .container {
     margin: 0 auto;
 }
