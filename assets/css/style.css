@@ -262,7 +262,7 @@ input {
 }
 
 .title {
-    color: rgb(32, 4, 82);
+    color: rgb(11, 16, 66);
 }
 
 /* GREY SECTION */
@@ -352,7 +352,7 @@ input {
 #f {
 	padding-top: 25px;
 	padding-bottom: 25px;
-	background-color: rgba(50, 86, 150, 0.98); 
+	background-color: rgb(0, 149, 255); 
 }
 
 #f i {
