@@ -330,7 +330,7 @@ input {
 #f {
 	padding-top: 25px;
 	padding-bottom: 25px;
-	background-color:(50, 86, 150, 0.98); 
+	background-color: rgba(50, 86, 150, 0.98); 
 }
 
 #f i {
