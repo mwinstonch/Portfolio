@@ -109,6 +109,9 @@ a:focus {
   color:#696E74;
 }
 
+.container {
+    margin: 0 auto;
+}
 .nopadding {
 	padding: 0px !important;
 	margin: 0px;
