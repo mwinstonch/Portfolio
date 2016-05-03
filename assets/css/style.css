@@ -63,7 +63,7 @@ body {
 .mb {margin-bottom: 50px;}
 .mtb {margin-top: 50px; margin-bottom: 50px;}
 .mtb2 { margin-top: 100px; margin-bottom: 100px;}
-.ptb {padding-top: 35px; padding-bottom: 35px;}
+.ptb {padding-top: 35px; padding-bottom: 50px;}
 
 .clear {
 	clear: both;
