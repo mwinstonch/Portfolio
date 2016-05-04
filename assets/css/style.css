@@ -122,6 +122,10 @@ a:focus {
 	margin: 0px;
 }
 
+.project {
+    height: 6vh;
+ }
+
 .profile-text {
     text-align: left;
     width: 54%;
