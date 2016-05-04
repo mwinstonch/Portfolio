@@ -118,6 +118,10 @@ a:focus {
     margin: 0 auto;
 }
 
+.experience-contains {
+    text-align: left;
+}
+
 .job-info {
     font-size: 14px;
 }
