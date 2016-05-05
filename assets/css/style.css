@@ -59,6 +59,7 @@ body {
 	clear: both;
 }
 .centered {text-align: center}
+.smt {margin-top: 20px;}
 .mt {margin-top: 50px;}
 .mb {margin-bottom: 50px;}
 .mtb {margin-top: 50px; margin-bottom: 50px;}
