@@ -137,9 +137,8 @@ a:focus {
 	margin: 0px;
 }
 
-.no-paddingmt {
-    padding: 0;
-    margin-top: 10px;
+.mmt{
+    margin-top: 25px;
 }
 
 .no-padding {
