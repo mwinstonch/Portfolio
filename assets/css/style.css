@@ -134,10 +134,6 @@ a:focus {
     margin-left: 14px;
 }
 
-.linked {
-    transition: color .5s linear;
-}
-
 a.git:hover {
     color: #FF0057;
 }
