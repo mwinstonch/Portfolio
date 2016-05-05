@@ -95,7 +95,7 @@ body {
 }
 a { 
 	padding: 0;
-	margin: 0;
+	margin: 3px;
 	text-decoration: none; 
 	-webkit-transition: background-color .4s linear, color .4s linear;
 	-moz-transition: background-color .4s linear, color .4s linear;
@@ -128,12 +128,16 @@ a:focus {
     margin-bottom: 16px;
 }
 
-a.git:hover {
-    color: #FF0057;
+.git {
+    margin-left: 14px;
 }
 
 .linked {
-    transition: color .6s linear;
+    transition: color .5s linear;
+}
+
+a.git:hover {
+    color: #FF0057;
 }
 
 a.linked:hover {
