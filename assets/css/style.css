@@ -128,6 +128,18 @@ a:focus {
     margin-bottom: 16px;
 }
 
+.git:hover {
+    color: red;
+}
+
+.linked:hover {
+    color: #33FFB4;
+}
+
+.twit:hover {
+    color: blue;
+}
+
 .job-info {
     font-size: 16px;
 }
