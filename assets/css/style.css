@@ -128,10 +128,6 @@ a:focus {
     margin-bottom: 16px;
 }
 
-.git {
-color: red;
-}
-
 a.git:hover {
     color: red;
 }
@@ -413,7 +409,7 @@ input {
 	font-size: 35px;
 }
 
-#f a {
+#f {
 	color: white;
 }
 
