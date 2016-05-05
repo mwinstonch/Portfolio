@@ -181,6 +181,10 @@ a:focus {
     text-align: center;
 }
 
+.sass {
+    padding: 0;
+}
+
 /* FORM CONFIGURATION */
 
 input {
