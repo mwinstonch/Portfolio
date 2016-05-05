@@ -132,6 +132,10 @@ a.git:hover {
     color: #FF0057;
 }
 
+.linked {
+    transition: color .6s linear;
+}
+
 a.linked:hover {
     color: #33FFB4;
 }
