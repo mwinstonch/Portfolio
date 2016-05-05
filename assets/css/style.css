@@ -128,19 +128,15 @@ a:focus {
     margin-bottom: 16px;
 }
 
-.git {
-    color: white;
-}
-
-.git:hover {
+a.git:hover {
     color: red;
 }
 
-.linked:hover {
+a.linked:hover {
     color: #33FFB4;
 }
 
-.twit:hover {
+a.twit:hover {
     color: blue;
 }
 
