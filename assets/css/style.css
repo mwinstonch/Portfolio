@@ -129,7 +129,7 @@ a:focus {
 }
 
 a.git:hover {
-    color: red;
+    color: #FF0057;
 }
 
 a.linked:hover {
