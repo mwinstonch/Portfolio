@@ -122,6 +122,10 @@ a:focus {
     text-align: left;
 }
 
+.experience-title {
+    font-size: 16px;
+}
+
 .job-info {
     font-size: 14px;
 }
