@@ -136,9 +136,13 @@ a:focus {
 	margin: 0px;
 }
 
+.no-padding {
+    padding: 0;
+}
+
 .position-title {
-     text-align: left;
-     font-weight: bold;
+   text-align: left;
+   font-weight: bold;
 }
 
 .project {
