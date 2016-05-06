@@ -175,12 +175,11 @@ a.twit:hover {
 
 .profile-text {
     text-align: left;
-    width: 54%;
 }
 
 .profile-pic {
     margin-left: 8%;
-    width: 28%;
+    width: 27%;
  }
 
 .profile-container {
@@ -343,7 +342,7 @@ input {
 {
 	color:#fff;
 	margin:0;
-	padding:40px 5px 0;
+	padding: 26% 5px 15px;
 	font-size:16px;
 	text-transform:uppercase;
 }
