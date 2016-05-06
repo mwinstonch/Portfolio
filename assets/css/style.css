@@ -103,7 +103,7 @@ a {
 	-moz-transition: background-color .25s linear, color .25s linear;
 	-o-transition: background-color .25s linear, color .25s linear;
 	-ms-transition: background-color 25s linear, color .25s linear;
-	transition: background-color .25s linear, color .25s linear;
+	transition: background-color .25s linear, color .25s cubic-bezier(0.4, 0, 1, 1);
 	color: #fff;
 }
 a:hover,
