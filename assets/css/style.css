@@ -99,11 +99,11 @@ a {
 	padding: 0;
 	margin: 3px;
 	text-decoration: none; 
-	-webkit-transition: background-color .4s linear, color .4s linear;
-	-moz-transition: background-color .4s linear, color .4s linear;
-	-o-transition: background-color .4s linear, color .4s linear;
-	-ms-transition: background-color .4s linear, color .4s linear;
-	transition: background-color .4s linear, color .4s linear;
+	-webkit-transition: background-color .25s linear, color .25s linear;
+	-moz-transition: background-color .25s linear, color .25s linear;
+	-o-transition: background-color .25s linear, color .25s linear;
+	-ms-transition: background-color 25s linear, color .25s linear;
+	transition: background-color .25s linear, color .25s linear;
 	color: #fff;
 }
 a:hover,
