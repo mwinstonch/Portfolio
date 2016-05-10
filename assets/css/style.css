@@ -226,9 +226,10 @@ input {
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	padding: 14px 28px 13px 28px;
-	}
+}
 
 .btn-clear {
+    font-size: 12px;
 	background: rgba(83, 81, 99, 0.45);
 	color: white;
 	border: 2px solid white;
