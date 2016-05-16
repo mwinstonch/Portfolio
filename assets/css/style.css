@@ -146,7 +146,7 @@ a.twit:hover {
 }
 
 .contact-info {
-    position: absolute;
+    position: fixed;
     top: 3px;
     right: 3px;
     width: 500px;
@@ -193,6 +193,14 @@ a.twit:hover {
 
 .profile-container {
     text-align: center;
+}
+
+.right-contact {
+    display: block;
+}
+
+.left-contact {
+    float: right;
 }
 
 .sass {
