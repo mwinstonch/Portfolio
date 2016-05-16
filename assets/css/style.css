@@ -196,11 +196,10 @@ a.twit:hover {
 }
 
 .right-contact {
-    display: block;
 }
 
 .left-contact {
-    float: right;
+    float: left;
 }
 
 .sass {
