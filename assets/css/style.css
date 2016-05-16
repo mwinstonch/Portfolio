@@ -149,7 +149,7 @@ a.twit:hover {
     position: fixed;
     top: 3px;
     right: 3px;
-    width: 380px;
+    width: 340px;
     border: 2px solid white; 
     height: 60px;
     2px solid rgba(73, 73, 76, 0.28);
@@ -196,12 +196,16 @@ a.twit:hover {
 }
 
 .right-contact {
+    font-size: 32px;
     float: right;
-    margin-right: 5px;
+    margin-right: 20px;
+    margin-top: 12px;
 }
 
 .left-contact {
     float: left;
+    margin-top: 10px;
+    margin-left: 10px;
 }
 
 .sass {
