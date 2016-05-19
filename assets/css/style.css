@@ -146,15 +146,15 @@ a.twit:hover {
 }
 
 a.topgit:hover {
-    color: #C12057 !important;
+    color: #D82764 !important;
 }
 
 a.toplinked:hover {
-    color: #7DCCAE !important;
+    color: rgba(107, 220, 177, 0.79) !important;
 }
 
 a.toptwit:hover {
-    color: #3F51B5 !important;
+    color: #2B73B1 !important;
 }
 
 .contact-info {
