@@ -227,9 +227,17 @@ a.toptwit:hover {
 }
 
 .topgit {
-     color: rgba(0, 0, 0, 0.71);
+     color: rgba(0, 0, 0, 0.62);
 }
-.toptwit
+
+.topgit {
+     color: rgba(0, 0, 0, 0.60);
+}
+
+.toptwit {
+    color: rgba(0, 0, 0, 0.55);
+}
+
 /* FORM CONFIGURATION */
 
 input {
