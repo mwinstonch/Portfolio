@@ -230,12 +230,12 @@ a.toptwit:hover {
      color: rgba(0, 0, 0, 0.62);
 }
 
-.topgit {
-     color: rgba(0, 0, 0, 0.60);
+.toptwit {
+     color: rgba(0, 0, 0, 0.56);
 }
 
 .toptwit {
-    color: rgba(0, 0, 0, 0.55);
+    color: rgba(0, 0, 0, 0.50);
 }
 
 /* FORM CONFIGURATION */
