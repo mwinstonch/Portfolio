@@ -239,6 +239,10 @@ a.toptwit:hover {
     color: rgba(0, 0, 0, 0.40);
 }
 
+.topbutt {
+    transition: inherit;
+}
+
 /* FORM CONFIGURATION */
 
 input {
