@@ -164,7 +164,8 @@ a.toptwit:hover {
     width: 340px;
     border: 2px solid white; 
     height: 60px;
-    2px solid rgba(73, 73, 76, 0.28);
+    border-radius: 3px;
+    2px solid rgba(12, 15, 47, 0.79);
     z-index: 1;
 }
 
