@@ -134,11 +134,11 @@ a:focus {
 }
 
 a.git:hover {
-    color: #FF0057 !important;
+    color: #FF003B !important;
 }
 
 a.linked:hover {
-    color: #33FFB4 !important;
+    color: #23F9AA !important;
 }
 
 a.twit:hover {
@@ -146,15 +146,15 @@ a.twit:hover {
 }
 
 a.topgit:hover {
-    color: #FF0057 !important;
+    color: #C12057 !important;
 }
 
 a.toplinked:hover {
-    color: #33FFB4 !important;
+    color: #7DCCAE !important;
 }
 
 a.toptwit:hover {
-    color: blue !important;
+    color: #3F51B5 !important;
 }
 
 .contact-info {
