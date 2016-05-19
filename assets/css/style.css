@@ -231,11 +231,11 @@ a.toptwit:hover {
 }
 
 .toplinked {
-     color: rgba(0, 0, 0, 0.56);
+     color: rgba(0, 0, 0, 0.51);
 }
 
 .toptwit {
-    color: rgba(0, 0, 0, 0.50);
+    color: rgba(0, 0, 0, 0.45);
 }
 
 /* FORM CONFIGURATION */
