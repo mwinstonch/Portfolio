@@ -145,6 +145,18 @@ a.twit:hover {
     color: blue !important;
 }
 
+a.topgit:hover {
+    color: #FF0057 !important;
+}
+
+a.toplinked:hover {
+    color: #33FFB4 !important;
+}
+
+a.toptwit:hover {
+    color: blue !important;
+}
+
 .contact-info {
     position: fixed;
     top: 3px;
