@@ -134,15 +134,15 @@ a:focus {
 }
 
 a.git:hover {
-    color: #FF0057;
+    color: #FF0057 !important;
 }
 
 a.linked:hover {
-    color: #33FFB4;
+    color: #33FFB4 !important;
 }
 
 a.twit:hover {
-    color: blue;
+    color: blue !important;
 }
 
 .contact-info {
@@ -153,7 +153,9 @@ a.twit:hover {
     border: 2px solid white; 
     height: 60px;
     2px solid rgba(73, 73, 76, 0.28);
+    z-index: 1;
 }
+
 .job-info {
     font-size: 16px;
 }
@@ -212,6 +214,10 @@ a.twit:hover {
     padding: 0;
 }
 
+.topgit {
+     color: rgba(0, 0, 0, 0.71);
+}
+.toptwit
 /* FORM CONFIGURATION */
 
 input {
@@ -272,6 +278,7 @@ input {
 	background-color: #222222;
 	border-color: #ffffff;
 }
+
 .dmbutton {
 	background:rgba(0, 0, 0, 0);
 	border: 1px solid #ffffff;
