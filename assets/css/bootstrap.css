@@ -929,6 +929,9 @@ figure {
 img {
   vertical-align: middle;
 }
+.img-responsive {
+    border-radius: 9px;
+}
 .img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
