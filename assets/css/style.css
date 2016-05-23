@@ -60,7 +60,13 @@ body {
 	display: block;
 	clear: both;
 }
-.centered {text-align: center}
+
+.centered {
+    text-align: center
+    width: 90%;
+    margin: 0 auto;
+}
+
 .smt {margin-top: 20px;}
 .mt {margin-top: 30px;}
 .mb {margin-bottom: 50px;}
@@ -160,6 +166,7 @@ a.toptwit:hover {
 .bullet {
     margin-right: 5px;
 }
+
 .contact-info {
     position: fixed;
     top: 3px;
