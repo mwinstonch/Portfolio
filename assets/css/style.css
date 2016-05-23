@@ -131,7 +131,7 @@ a:focus {
 }
 
 .experience-title {
-    font-size: 17px;
+    font-size: 18px;
     margin-bottom: 10px;
 }
 
@@ -190,7 +190,8 @@ a.toptwit:hover {
 
 .job-info {
     margin-top: 10px;
-    font-size: 16px;
+    font-size: 17px;
+
 }
 
 .nopadding {
@@ -210,6 +211,7 @@ a.toptwit:hover {
    text-align: left;
    font-weight: bold;
    margin-top: 28px;
+   font-size: 19px;
 }
 
 .project {
