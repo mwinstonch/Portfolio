@@ -451,6 +451,7 @@ input {
 	background-color:rgba(0,179,254,.9);
 	text-align:center;
     border-radius: 9px;
+    border: solid rgb(197, 193, 182); 1px;
 }
 
 /* CLIENTS */
