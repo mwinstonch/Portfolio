@@ -242,7 +242,8 @@ a.toptwit:hover {
 }
 
 .projectbut:hover {
-    background: white;
+    background: white !important;
+    color: #2f2f2f;
 }
 
 .profile-text {
