@@ -176,6 +176,11 @@ a.toptwit:hover {
    margin-top: 10px;
 }
 
+.expLineNoBull {
+     margin-top: 10px;
+     margin-left: 2px;
+}
+
 .job-info {
     margin-top: 10px;
     font-size: 16px;
