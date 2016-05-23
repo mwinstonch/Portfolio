@@ -172,6 +172,10 @@ a.toptwit:hover {
     z-index: 1;
 }
 
+.expLine {
+   margin-top: 10px;
+}
+
 .job-info {
     margin-top: 10px;
     font-size: 16px;
