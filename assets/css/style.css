@@ -282,6 +282,7 @@ a.toptwit:hover {
 }
 
 .topbutt {
+    float: right;
     transition: inherit;
 }
 
