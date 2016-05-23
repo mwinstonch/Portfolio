@@ -157,6 +157,9 @@ a.toptwit:hover {
     color: #2B73B1 !important;
 }
 
+.bullet {
+    margin-right: 5px;
+}
 .contact-info {
     position: fixed;
     top: 3px;
@@ -170,7 +173,7 @@ a.toptwit:hover {
 }
 
 .job-info {
-    display: block;
+    margin: 10px;
     font-size: 16px;
 }
 
