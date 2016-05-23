@@ -69,7 +69,7 @@ body {
 
 .smt {margin-top: 20px;}
 .mt {margin-top: 30px;}
-.mb {margin-bottom: 50px;}
+.mb {margin-bottom: 37px;}
 .mtb {margin-top: 50px; margin-bottom: 50px;}
 .mtb2 { margin-top: 100px; margin-bottom: 100px;}
 .ptb {padding-top: 35px; padding-bottom: 50px;}
@@ -412,6 +412,9 @@ input {
 	padding:0 !important;
 	margin:0 !important;
 	display:block;
+    position: absolute !important;
+    left: 9px;
+    right: 3px;
 }
 
 
