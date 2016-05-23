@@ -2,7 +2,7 @@
 {
 	position:relative;
 	zoom:1;
-
+    max-width: 96%;
 	*display:inline;
 	position:relative;
 }
