@@ -69,10 +69,15 @@ body {
 
 .smt {margin-top: 20px;}
 
-.mt {
+.mtl {
     margin-top: 30px;
     margin-left: 23px;
 }
+
+.mt {
+    margin-top: 30px;
+}
+
 .mb {margin-bottom: 37px;}
 .mtb {margin-top: 50px; margin-bottom: 50px;}
 .mtb2 { margin-top: 100px; margin-bottom: 100px;}
