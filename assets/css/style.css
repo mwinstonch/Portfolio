@@ -240,6 +240,11 @@ a.toptwit:hover {
      background: rgba(0, 3, 58, 0.51);
      margin-top: 6px;
 }
+
+.projectbut:hover {
+    background: white;
+}
+
 .profile-text {
     text-align: left;
     margin-left: 4%;
