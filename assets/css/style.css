@@ -412,10 +412,7 @@ input {
 	padding:0 !important;
 	margin:0 !important;
 	display:block;
-    position: absolute !important;
-    left: 9px;
-    right: 3px;
-}
+ }
 
 
 .portfolio-item .title:before {border-radius:0; display:none}
