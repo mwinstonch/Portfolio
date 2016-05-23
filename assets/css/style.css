@@ -435,6 +435,9 @@ input {
 	font-size:13px;
 }
 
+.portfolio-item {
+    border-radius: 9px;
+}
 
 .tpl6 .bg
 {
