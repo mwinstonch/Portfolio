@@ -188,6 +188,9 @@ a.toptwit:hover {
     z-index: 1;
 }
 
+.exp {
+    margin-left: 45px;
+}
 .expLine {
    margin-top: 10px;
 }
