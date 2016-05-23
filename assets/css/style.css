@@ -435,6 +435,7 @@ input {
 	font-size:13px;
 }
 
+
 .tpl6 .bg
 {
 	height:100%;
@@ -442,7 +443,6 @@ input {
 	background-color:#00b3fe;
 	background-color:rgba(0,179,254,.9);
 	text-align:center;
-    max-width: 96%;
 }
 
 /* CLIENTS */
