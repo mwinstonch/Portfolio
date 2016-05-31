@@ -252,6 +252,7 @@ a.toptwit:hover {
 .profile-text {
     text-align: left;
     margin-left: 4%;
+    width: 51%;
 }
 
 .profile-pic {
