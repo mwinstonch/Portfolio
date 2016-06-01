@@ -9,7 +9,6 @@
     box-shadow: 2px 3px 6px 0px rgba(0,0,0,0.75);
 	*display:inline;
 	position:relative;
-    border: 1px solid rgb(197, 193, 182);
     border-radius: 11px;
 }
 .he-view,.he-zoom
